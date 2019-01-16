@@ -1,5 +1,5 @@
 # searchsimulationTree
-Simulation of search engine, please look at documentation
+Simulation of search engine, please look at documentation for a more detailed summary than this
 
 This program takes a keyword and a website, and uses a Java web crawler (not written by me, credit given to its creator in
 the documentation) in order to pull webpages on the given website that involve the keyword in some way. Once 30 URLs have been

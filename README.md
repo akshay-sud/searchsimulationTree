@@ -14,6 +14,7 @@ The last 2 factors are unused in the Tree balancing, but are instead used for li
 Machine Learning algorithm. These 2 factors are :
 - time of day uploaded
 - clicks the page has received (in any length of time)
+
 All 6 factors are randomly generated to simulate values for balancing the 30 URLs in the tree, and also to generate a training set
 for the Gradient Descent algorithm to attempt to find a relationship between the time of day uploaded, generated as a double between
 0 and 24, and the number of clicks the page has gotten, a double between 1 and 1000.

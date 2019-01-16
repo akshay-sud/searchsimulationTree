@@ -4,6 +4,9 @@ Simulation of search engine, please look at documentation for a more detailed su
 This program takes a keyword and a website, and uses a Java web crawler (not written by me, credit given to its creator in
 the documentation) in order to pull webpages on the given website that involve the keyword in some way. Once 30 URLs have been
 extracted from the website, they are used to form 30 pageRank objects.
+
+If you would like to run the program, download pa2.jar and follow the instructions listed on page 3 of the attached documentation.
+
 A pageRank object contains 6 (simulated) factors that a real URL result on a search engine might have. The first 4 factors are:
 - frequency of traffic
 - how long it has existed

@@ -9,6 +9,7 @@ A pageRank object contains 6 (simulated) factors that a real URL result on a sea
 - how long it has existed
 - its relevance to the keyword
 - how much the domain pays the search engine
+
 The last 2 factors are unused in the Tree balancing, but are instead used for linear regression via Gradient Descent, a basic 
 Machine Learning algorithm. These 2 factors are :
 - time of day uploaded
